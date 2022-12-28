@@ -1,5 +1,5 @@
-# Description: This program calculates the protein intake of a person
-print("\n\t\tYOUR PROTEIN INTAKE\t\t\n")
+# Description: This program calculates the macros of a person
+print("\n\t\tYOUR MACRONUTRIENTS\t\t\n")
 weight = float(input("Enter your weight in kg: "))
 # 1g of protein = 4 calories
 # 1g of protein = 0.25 of fat
